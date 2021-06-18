@@ -1,0 +1,2 @@
+rootProject.name = "Bottom_Navigation_Kotlin"
+include ':app'
